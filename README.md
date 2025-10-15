@@ -109,8 +109,6 @@ The `src/model.py` file defines the PPO neural network architecture.
 
 ## 📸 Screenshots
 
-(Leave space for screenshots of the agent playing the game, TensorBoard logs, etc.)
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit pull requests with bug fixes, new features, or improvements to the documentation.
